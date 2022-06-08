@@ -1,2 +1,2 @@
 Notes about Jupiter.
-Some concerns about gas.
+Some concerns about gases.
